@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DovanosWinApp", "DovanosWinApp\DovanosWinApp.csproj", "{BE57B329-2DF7-4DB2-92C3-5D1DFEDCE887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteka", "Biblioteka\Biblioteka.csproj", "{AD0E003A-7FB4-4877-A266-082A1C5AEF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE57B329-2DF7-4DB2-92C3-5D1DFEDCE887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE57B329-2DF7-4DB2-92C3-5D1DFEDCE887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE57B329-2DF7-4DB2-92C3-5D1DFEDCE887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE57B329-2DF7-4DB2-92C3-5D1DFEDCE887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0E003A-7FB4-4877-A266-082A1C5AEF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0E003A-7FB4-4877-A266-082A1C5AEF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0E003A-7FB4-4877-A266-082A1C5AEF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0E003A-7FB4-4877-A266-082A1C5AEF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19192409-92CC-444B-BD89-32C2554DB775}
+	EndGlobalSection
+EndGlobal
